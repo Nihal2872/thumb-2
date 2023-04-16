@@ -66,4 +66,4 @@ async def thumb_change(bot, m):
 
 
 
-Bot.run()
+
