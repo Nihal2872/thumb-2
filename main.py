@@ -64,6 +64,6 @@ async def thumb_change(bot, m):
     await msg.delete()
     os.remove(file_dl_path)
 
-
+Bot.run()
 
 
